@@ -1,0 +1,766 @@
+codigo_fns	codigo_interno	descripcion	ambulatorio	urgencia	hospitalizado
+101001	10100101	CONSULTA URGENCIA HABIL	NA	30	NA
+101001	10100102	CONSULTA URGENCIA INHABIL	NA	45	NA
+No aplica	10100201	INTERCONSULTA NEUROCIRUGIA	NA	100	NA
+No aplica	10100203	INTERCONSULTA UROLOGIA	NA	60	NA
+No aplica	10100204	INTERCONSULTA MAXILOFACIAL	NA	60	NA
+No aplica	10100205	INTERCONSULTA GINECOLOGIA	NA	60	NA
+No aplica	10100206	INTERCONSULTA TRAUMATOLOGIA	NA	60	NA
+No aplica	10100208	INTERCONSULTA CIRUGIA GENERAL	NA	60	NA
+No aplica	10100209	INTERCONSULTA CIR.REPARADORA Y RECONST.	NA	100	NA
+No aplica	10100213	INTERCONSULTA MEDICINA INTERNA	NA	60	NA
+No aplica	600100100	INTERCONSULTA ESPECIALISTA PAC. HOSPIT.	NA	60	NA
+101001	10100100	Consulta medica electiva	21888	NA	NA
+101201	10120100	Consulta Medica de Especialidad en Dermatologia	3951	NA	NA
+101203	10120300	Consulta Medica de Especialidad en Neurocirugia	439	NA	NA
+101300	10130000	Consulta Medica otras Especialidades	27576	NA	NA
+101301	10130100	Consulta Medica de Especialidad en Cardiologia	307	NA	NA
+101304	10130400	Consulta Medica de Especialidad en Inmunologia	27576	NA	NA
+101307	10130700	Consulta Medica de Especialidad en Medicina Interna	27576	NA	NA
+101308	10130800	Consulta Medica de Especialidad en Obstetricia y Ginecologia	3064	NA	NA
+101309	10130900	Consulta Medica de Especialidad en Pediatria	27576	NA	NA
+101310	10131000	Consulta Medica de Especialidad en Traumatologia y Ortopedia	3064	NA	NA
+101311	10131100	Consulta Medica de Especialidad en Urologia	439	NA	NA
+101312	10131200	Consulta Medica de Especialidad en Cirugia General	27576	NA	NA
+101316	10131600	Consulta Medica de Especialidad en Cirugia Plastica y Reparadora	3064	NA	NA
+101317	10131700	Consulta Medica de Especialidad en Cirugia Pediatrica	27576	NA	NA
+101313	101313	Consulta Medica de Especialidad en Cirugia de Cabeza, Cuello y Maxilofacial	27576	NA	NA
+301002	30100200	Acido folico o folatos	664	7968	996
+301007	30100700	Anticoagulantes circulantes o anticoagulante lupico	645	774	9675
+301008	30100800	Antitrombina III	645	774	9675
+301011	30101100	Coagulacion, tiempo de	206	2472	309
+301014	30101400	Prueba de antiglobulina directa	178	2136	267
+301015	30101500	Coombs indirecto, prueba de	299	3588	4485
+301021	30102100	Fibrinogeno	318	3816	477
+301024	30102400	Factor V	31	372	465
+301026	30102600	Ferritina	752	9024	1128
+301027	30102700	Fibrinogeno, productos de degradacion del	667	8004	10005
+301028	30102800	Fierro serico	293	3516	4395
+301029	30102900	Fierro, capacidad de fijacion del (incluye fierro serico)	614	7368	921
+301030	30103000	Fierro, cinetica del (cada determinacion)	72	864	108
+301034	30103400	Clasificacion sanguinea AB0 y RhD	331	3972	4965
+301036	30103600	Hematocrito (proc. aut.)	980	1176	147
+301038	30103800	Hemoglobina en sangre total (proc. aut.)	980	1176	147
+301041	30104100	Hemoglobina glicada A1c	626	7512	939
+301042	30104200	Hemoglobina plasmatica	138	1656	207
+301044	30104400	Electroforesis de hemoglobina	664	7968	996
+301045	30104500	Hemograma(incluyerecuentosdeleucocitosyeritrocitos,hemoglobina,hematocrito,formulaleucocitaria,caracteristicasdeloselementosfiguradosyvelocidaddeeritrosedimentacion)	4110	4932	6165
+301050	30105000	Isoinmunizacion, deteccion de anticuerpos irregulares (proc. aut.).	469	5628	7035
+301059	30105900	Tiempo de protrombina (incluye INR, Razon Internacional Normalizada)	206	2472	309
+301062	30106200	Recuento de basofilos (absoluto)	134	1608	201
+301063	30106300	Recuento de eosinofilos (absoluto)	136	1632	204
+301064	30106400	Recuento de eritrocitos, absoluto (proc. aut.)	990	1188	1485
+301065	30106500	Recuento de leucocitos, absoluto (proc. aut.)	980	1176	147
+301066	30106600	Recuento de linfocitos (absoluto)	166	1992	249
+301067	30106700	Recuento de plaquetas (absoluto)	173	2076	2595
+301068	30106800	Recuento de reticulocitos (absoluto o porcentual)	134	1608	201
+301069	30106900	Recuento diferencial o formula leucocitaria (proc. aut.)	266	3192	399
+301072	30107200	Tiempo de sangria (no incluye dispositivo asociado)	206	2472	309
+301082	30108200	Transferrina	73	876	1095
+301083	30108300	Trombina, tiempo de	259	3108	3885
+301085	30108500	Tromboplastina, tiempo parcial de (TTPA, TTPK o similares)	325	39	4875
+301086	30108600	Velocidad de eritrosedimentacion (proc. aut.)	740	888	111
+301089	30108900	Factor Von Willebrand antigenico (FVW:Ag)	1261	15132	18915
+301091	30109100	Proteina C	3906	46872	5859
+301092	30109200	Proteina S	4546	54552	6819
+301093	30109300	Resistencia a la Proteina C activada	291	3492	4365
+301095	30109500	Dimero-D	1477	17724	22155
+302001	30200100	Cuerpos cetonicos en sangre	12	144	18
+302004	30200400	Lactato en sangre	528	6336	792
+302005	30200500	Acido urico, en sangre	21	252	315
+302008	30200800	Amilasa, en sangre	33	396	495
+302009	30200900	Aminoacidos, cualitativo en sangre	843	10116	12645
+302010	30201000	Amonio	31	372	465
+302070	30207000	Apolipoproteinas (A1, B u otras)	918	11016	1377
+302011	30201100	Bicarbonato (proc. aut.)	910	1092	1365
+302012	30201200	Bilirrubina total (proc. aut.)	197	2364	2955
+302013	30201300	Bilirrubina total y conjugada	2	24	3
+302015	30201500	Calcio en sangre	186	2232	279
+302017	30201700	Caroteno	293	3516	4395
+302018	30201800	Caroteno,pruebadesobrecargade,ademas2codigos03-07-011o03-07-
+012.	6620	7944	9930
+302019	30201900	Ceruloplasmina	482	5784	723
+302020	30202000	Cobre en sangre	23	276	345
+302067	30206700	Colesterol total (proc. aut.)	189	2268	2835
+302068	30206800	Colesterol HDL (proc. aut.)	277	3324	4155
+302021	30202100	Colinesterasa en suero o plasma	411	4932	6165
+302023	30202300	Creatinina en sangre	181	2172	2715
+302024	30202400	Clearance de creatinina (proc.aut.)	406	4872	609
+302025	30202500	Creatinquinasa CK - MB  miocardica	68	816	102
+302026	30202600	Creatinquinasa CK - total	502	6024	753
+302027	30202700	Troponina	1402	16824	2103
+302030	30203000	Deshidrogenasa lactica total (LDH)	307	3684	4605
+302032	30203200	Electrolitos plasmaticos (sodio, potasio, cloro) c/u	171	2052	2565
+302034	30203400	Perfillipidico(incluyemedicionesdecolesteroltotal,HDL-colesterolytrigliceridosconestimacionesporformuladeLDL-colesterol,VLDL-colesterolycolesterolno-HDL)	8610	10332	12915
+302035	30203500	Farmacosy/odrogas;nivelesplasmaticosde(alcohol,anorexigenos,antiarritmicos,antibioticos,antidepresivos,antiepilepticos,antihistaminicos,antiinflamatoriosyanalgesicos,estimulantesrespiratorios,tranquilizantesmayoresymenores,etc.)c/u	7970	9564	11955
+302036	30203600	Fenilalanina	318	3816	477
+302040	30204000	Fosfatasas alcalinas totales	181	2172	2715
+302042	30204200	Fosforo (fosfatos) en sangre	243	2916	3645
+302045	30204500	Gamma glutamiltranspeptidasa (GGT)	31	372	465
+302046	30204600	Gasesyequilibrioacidobaseensangre(incluye:pH,O2,CO2,excesodebaseybicarbonato),todosocadaunodelosparametros	5180	6216	7770
+302047	30204700	Glucosa en sangre	173	2076	2595
+302048	30204800	Glucosa,PruebadeToleranciaalaGlucosaOral(PTGO),(dosdeterminaciones;noincluyelaglucosaqueseadministra;incluyeelvalordelasdostomasdemuestras)	8020	9624	12030
+302050	30205000	Adenosindeaminasa en sangre u otro fluido biologico.	667	8004	10005
+302053	30205300	Lipasa en sangre	344	4128	516
+302055	30205500	Litio en sangre	411	4932	6165
+302056	30205600	Magnesio en sangre	411	4932	6165
+302057	30205700	Nitrogeno ureico y/o urea, en sangre	179	2148	2685
+302075	30207500	Perfil Bioquimico (determinacion automatizada de 12 parametros)	1163	13956	17445
+302060	30206000	Proteinas totales o albuminas, c/u, en sangre	202	2424	303
+302061	30206100	Proteinas, electroforesis (incluye cod. 03-02-060)	869	10428	13035
+302076	30207600	PerfilHepatico(incluyetiempodeprotrombina,bilirrubinatotalyconjugada,fosfatasasalcalinastotales,GGT,transaminasasGOT/ASTyGPT/ALT)	14430	17316	21645
+302063	30206300	Transaminasas, oxalacetica (GOT/AST), Piruvica (GPT/ALT), c/u	256	3072	384
+302064	30206400	Trigliceridos en sangre (proc.aut.)	245	294	3675
+302077	30207700	Vitamina B12 por inmunoensayo	1013	12156	15195
+302078	30207800	25 OH Vitamina D Total por inmunoensayo	2078	24936	3117
+302081	30208100	Calcioionico.IncluyemediciondepHmetodoionselectivo.NoincluyePointofCareTestingPOCT	3140	3768	4710
+302082	30208200	Fenilalanina Cuantitativa en Gotas de Sangre Seca	1138	13656	1707
+303001	30300100	Adenocorticotrofina (ACTH)	1139	13668	17085
+303002	30300200	Aldosterona	978	11736	1467
+303003	30300300	Androstenediona	741	8892	11115
+303004	30300400	Angiotensina	942	11304	1413
+303006	30300600	Cortisol	741	8892	11115
+303007	30300700	Crecimiento, hormona de (HGH) (somatotrofina)	978	11736	1467
+303008	30300800	Dehidroepiandrosterona sulfato (DHEA-S)	963	11556	14445
+303012	30301200	Gastrina	978	11736	1467
+303014	30301400	Gonadotrofina corionica, sub-unidad beta (cuantificacion)	72	864	108
+303015	30301500	Hormona foliculo estimulante (FSH)	72	864	108
+303016	30301600	Hormona luteinizante (LH)	72	864	108
+303047	30304700	IGF1 o Somatomedina - C (Insuline Like Growth Factor)	171	2052	2565
+303017	30301700	Insulina	707	8484	10605
+303031	30303100	Insulina,curvade(minimodosdeterminacioneseincluyetodaslastomasdemuestranecesarias.Noincluyelaglucosaqueseadministra)	19070	22884	28605
+303018	30301800	Parathormona, hormona Paratiroidea o PTH.	1114	13368	1671
+303019	30301900	Progesterona	72	864	108
+303020	30302000	Prolactina (PRL)	72	864	108
+303021	30302100	Renina	1035	1242	15525
+303046	30304600	SHBG (Sex-Hormone Binding Globulin)	1682	20184	2523
+303022	30302200	Testosterona en sangre	741	8892	11115
+303023	30302300	Testosterona libre en sangre	866	10392	1299
+303123	30312300	Indice androgenico (incluye Testosterona Total y SHBG)	1787	21444	26805
+303024	30302400	Tiroestimulante (TSH), hormona (Adulto, nino o R.N.)	626	7512	939
+303025	30302500	Tiroglobulina	978	11736	1467
+303026	30302600	Tiroxina libre (T4L)	72	864	108
+303027	30302700	Tiroxina o tetrayodotironina (T4)	626	7512	939
+303028	30302800	Triyodotironina (T3)	626	7512	939
+303029	30302900	17 - Hidroxiprogesterona	978	11736	1467
+303030	30303000	Estradiol (17-Beta)	707	8484	10605
+303049	30304900	Catecolaminasensangre(incluyemediciondeAdrenalina,Noradrenalinay
+Dopaminaporseparadopormetodoscromatograficos)	46190	55428	69285
+303033	30303300	Angiotensina	88	1056	132
+303035	30303500	Cortisol libre urinario	782	9384	1173
+303039	30303900	Gonadotrofinacorionica,sub-unidadBeta;titulacionpor(Elisa;RIAoIRMA;Quimioluminiscenciauotratecnica)	7410	8892	11115
+303050	30305000	Metanefrinasurinarias(incluyedeterminaciondeMetanefrinay
+Normetanefrinaporseparadopormetodoscromatograficos)	52240	62688	78360
+303051	30305100	Catecolaminasurinarias(incluyemediciondeAdrenalina,Noradrenalinay
+Dopaminaporseparadopormetodoscromatograficos)	44910	53892	67365
+305001	30500100	Alfa -1- antitripsina cuantitativa	741	8892	11115
+305002	30500200	Alfa -2- macroglobulina	736	8832	1104
+305003	30500300	Alfa fetoproteinas	72	864	108
+305004	30500400	TamizajedeAnticuerposantiantigenosnuclearesextractables(a-ENA:Sm,RNP,Ro,La,Scl-70yJo-1)	14290	17148	21435
+305005	30500500	Anticuerposantinucleares(ANA),antimitocondriales,antiDNA(ADNA),antimusculoliso,anticentromero,uotros,c/u.	10030	12036	15045
+305007	30500700	Anticuerposespecificosyotrosautoanticuerpos(anticuerposantitiroideos:anticuerposantimicrosomalesyantitiroglobulinasyotrosanticuerpos:prostatico,espermios,etc.)c/u	8050	9660	12075
+305008	30500800	Antiestreptolisina O, por tecnica de latex	646	7752	969
+305009	30500900	Antigeno carcinoembrionario (CEA)	978	11736	1467
+305070	30507000	Antigeno prostatico especifico	1258	15096	1887
+305170	30517000	Antigeno Ca 125, Ca 15-3 y Ca 19-9, c/u	1277	15324	19155
+305010	30501000	Beta-2-microglobulina	1006	12072	1509
+305012	30501200	Complemento C1Q, C2, C3, C4, etc., c/u	646	7752	969
+305019	30501900	Factor reumatoideo por tecnica de latex u otras similares	37	444	555
+305020	30502000	FactorreumatoideoportecnicadeScat,WaalerRose,nefelometricasy/oturbidimetricas	6370	7644	9555
+305025	30502500	Inmunofijacion de inmunoglobulina, c/u	1149	13788	17235
+305026	30502600	Inmunoglobulina IgA secretora	608	7296	912
+305027	30502700	Inmunoglobulinas IgA, IgG, IgM, c/u	646	7752	969
+305028	30502800	Inmunoglobulinas IgE, IgD total, c/u	741	8892	11115
+305029	30502900	Inmunoglobulinas IgE, IgG especificas, c/u	73	876	1095
+305030	30503000	Proteina C reactiva por tecnica de latex u otras similares	606	7272	909
+305031	30503100	Proteina C reactiva por tecnicas automatizadas	838	10056	1257
+305081	30508100	Anticuerpoantiendomisio(EMA,antimembranabasalglomerular(GBM),antireticulina,porIFIc/u.	15060	18072	22590
+305181	30518100	Anticuerpos antitransglutaminasa (TTG)	1528	18336	2292
+305082	30508200	Anticuerpos anticitoplasma de neutrofilos (ANCA), C-ANCA y P-ANCA, por IFI	2242	26904	3363
+305083	30508300	Determinaciondeisotiposdeanticuerposanticitoplasmadeneutrofilos(G-M-A-C'3),porIFI,c/u.	10320	12384	15480
+305084	30508400	Anticuerpos anticardiolipinas por Elisa (isotipos G -M-A), c/u.	1712	20544	2568
+305085	30508500	Anticuerpos anti LKM-1	2923	35076	43845
+305086	30508600	Anticuerpos contra peptidos deaminados de gliadina IgG e IgA	1462	17544	2193
+305091	30509100	Linfocitos T (CD3, CD4, CD8). Tecnica Citometria de Flujo	3664	43968	5496
+305092	30509200	Natural Killers (CD16, CD 56). Tecnica Citometria de Flujo	356	4272	534
+306002	30600200	Baciloscopia Ziehl-Neelsen, c/u	238	2856	357
+306004	30600400	Examen directo al fresco, c/s tincion (incluye trichomonas)	206	2472	309
+306005	30600500	Tincion de Gram	910	1092	1365
+306006	30600600	Ultramicroscopia (incluye toma de muestras)	667	8004	10005
+306007	30600700	Coprocultivo, c/u	573	6876	8595
+306008	30600800	Cultivo corriente (excepto coprocultivo, hemocultivo y urocultivo) c/u	474	5688	711
+306011	30601100	Urocultivo,recuentodecoloniasyantibiograma(cualquiertecnica)(incluyetomadeorinaasepticayfrascorecolector)(noincluyerecolectorpediatriconisonda)	4990	5988	7485
+306091	30609100	Hemocultivo aerobico automatizado con antibiograma	2344	28128	3516
+306012	30601200	Cultivo para Anaerobios (incluye Cod. 03-06-008)	992	11904	1488
+306014	30601400	Cultivo para Campylobacter, Yersinia, Vibrio, c/u	667	8004	10005
+306016	30601600	Neisseria gonorrhoeae (gonococo)	41	492	615
+306017	30601700	Cultivo para Levaduras	371	4452	5565
+306117	30611700	Cultivo para hongos filamentosos	421	5052	6315
+306018	30601800	Cultivo para micobacterias (incluye bacilo de Koch)	598	7176	897
+306023	30602300	Cultivo mycoplasma y ureaplasma, c/u.	846	10152	1269
+306026	30602600	AntibiogramaCorriente(minimo10farmacos)(encasodeurocultivonocorrespondesucobro;incluidoenelvalor03-06-011)	3710	4452	5565
+306027	30602700	Antibiogramadeestudiodesensibilidadpordilucion(CIM)(minimo6farmacos)(encasodeurocultivo,nocorrespondesucobro;incluidoenelvalorcodigo03-06-011)	10560	12672	15840
+306090	30609000	Test rapido de deteccion de streptococcus.	762	9144	1143
+306097	30609700	Chlamydia Trachomatis deteccion por tecnica de biologia molecular	3659	43908	54885
+306034	30603400	Clamidias por inmunofluorescencia, peroxidasa, Elisa o similares	749	8988	11235
+306036	30603600	Mononucleosis, reaccion de Paul Bunnell, Anticuerpos Heterofilos o similares	33	396	495
+306037	30603700	Mycoplasma IgG, IgM, c/u.	68	816	102
+306038	30603800	R.P.R.	358	4296	537
+306039	30603900	Tificas, reacciones de aglutinacion (Eberth H y O, paratyphi A y B) (Widal)	491	5892	7365
+306041	30604100	Treponema pallidum FTA - ABS, MHA-TP c/u	677	8124	10155
+306042	30604200	V.D.R.L.	419	5028	6285
+306043	30604300	Artropodosmacroscopicosymicroscopicos(imagosy/opupasy/olarvas),diagnosticode	4100	4920	6150
+306045	30604500	CoproparasitarioseriadocontecnicaparaCryptosporidiumspoparaDiantamoebafragilis(incluyeloscodigos03-06-048y/o03-06-059masaplicaciondetecnicadefrotiscontinciontricromicaotincionZiehl-Neelsenenporlomenos3muestras,seguncorresponda)	11780	14136	17670
+306046	30604600	Coproparasitarioseriadoparafasciolahepatica(incluyediagnosticodegusanosmacroscopicosyexamenmicroscopicode10muestraspormetododeTelemannysimultaneamenteportecnicadeSedimentacionrapida(CopaConica)	26400	31680	39600
+306047	30604700	CoproparasitarioseriadoparaIsosporaySarcocystis(incluyediagnosticodegusanosmacroscopicosyexamenmicroscopicode3muestrasseparadas)	6450	7740	9675
+306048	30604800	Coproparasitologicoseriadosimple(incluyediagnosticodegusanosmacroscopicosyexamenmicroscopicoporconcentraciondetresmuestrasseparadasmetodoTelemann)(proc.aut.)	4110	4932	6165
+306051	30605100	Graham,examende(incluyediagnosticodegusanosmacroscopicosyexamenmicroscopicode5muestrasseparadas)	2900	3480	4350
+306052	30605200	Estudio de gusanos macroscopicos	238	2856	357
+306053	30605300	Hemoparasitos,diagnosticomicroscopicode(minimo10frotisy/ogotasgruesas,c/sexamendirectoalfresco),cadasesion	12270	14724	18405
+306054	30605400	Hemoparasitos,diagnosticoportecnicadeMicrostroutosimilarenhasta10tuboscapilares,cadasesion(Chagas)	15280	18336	22920
+306056	30605600	Raspadodepiel,examenmicroscopicode("Acarotest"):de6a10preparaciones	5500	6600	8250
+306059	30605900	Coproparasitologicoseriadosimple(incluyediagnosticodegusanosmacroscopicosyexamenmicroscopicoporconcentraciondetresmuestrasseparadasmetodoPAFS)(proc.aut.)	5470	6564	8205
+306061	30606100	ParasitosIgG/IgM(Chagas,Hidatidosis,ToxocariasisyotrosporElisao
+Inmunofluorescencia),c/u	7500	9000	11250
+306066	30606600	Inmunofluorescenciaindirecta(toxoplasmosis,Chagas,amebiasisyotras),c/u	7940	9528	11910
+306096	30609600	Parasitos: test rapido anticuerpos (Chagas y otros)	1478	17736	2217
+306068	30606800	Aislamientodevirus(Adenovirus,Citomegalovirus,Enterovirus,Herpes,Influenza,Polio,Sarampionyotros),c/u	9920	11904	14880
+306069	30606900	Anticuerposvirales,determ.de(adenovirus,citomegalovirus,herpessimple,rubeola,influenzaAyB;virusvaricela-zoster;virussincicialrespiratorio;parainfluenza1,2y3;EpsteinBarryotros),c/u	7820	9384	11730
+306169	30616900	Anticuerpos virales, determ. de H.I.V.	746	8952	1119
+306070	30607000	Antigenosviralesdeterm.de(adenovirus,citomegalovirus,herpessimple,rubeola,influenzayotros),(porcualquiertecnicaej:inmunofluorescencia),c/u	7280	8736	10920
+306170	30617000	Antigenos virales determ. de rotavirus, por cualquier tecnica	707	8484	10605
+306270	30627000	Antigenos virales determ. de virus sincicial, por cualquier tecnica	771	9252	11565
+306074	30607400	Virus Hepatitis A, anticuerpos IgG, IgM o totales c/u	1058	12696	1587
+306075	30607500	Virus hepatitis B, anticuerpo del antigeno E del	939	11268	14085
+306078	30607800	Virus hepatitis B, antigeno E del (HBEAg)	939	11268	14085
+306079	30607900	Virus hepatitis B, antigeno de superficie (HBsAg)	731	8772	10965
+306080	30608000	Virus hepatitis B, anticore IgM del (anti HBc IgM)	1013	12156	15195
+306081	30608100	Virus hepatitis C, anticuerpos de (anti HCV)	1123	13476	16845
+306082	30608200	ReacciondePolimerasaencadena(P.C.R.),virusInfluenza,virusHerpes,citomegalovirus,hepatitisC,mycobacteriaTBC,c/u(incluyetomamuestrahisopadonasofaringeo).	28080	33696	42120
+307009	30700900	Arterial en adultos	168	2016	252
+307010	30701000	Arterial en ninos y lactantes	238	2856	357
+307011	30701100	Venosa en adultos	115	138	1725
+307012	30701200	Venosa en ninos y lactantes	114	1368	171
+307013	30701300	Con tecnica aseptica para hemocultivo automatizado, c/u, no incluye frasco	186	2232	279
+307014	30701400	Capilar ( adultos, ninos y lactantes )	980	1176	147
+307023	30702300	Aspirados nasofaringeo para adulto y nino.	312	3744	468
+308001	30800100	Azucares reductores (Benedict-Fehling o similar)	157	1884	2355
+308003	30800300	Grasas neutras (Sudan III)	910	1092	1365
+308004	30800400	Hemorragiasocultas,(bencidina,guayacootestdeWeberysimilares),cualquiermetodo,c/muestra	1630	1956	2445
+308005	30800500	Leucocitos fecales	163	1956	2445
+308006	30800600	pH en deposiciones	910	1092	1365
+308010	30801000	Citologicoc/stincion(incluyeexamenalfresco,recuentocelularycitologicoporcentual)	4350	5220	6525
+308011	30801100	Directo al fresco c/s tincion, (incluye trichomonas)	206	2472	309
+308012	30801200	Electrolitos(sodio,potasio,cloro),enexudados,secrecionesyotrosliquidos,c/u	2060	2472	3090
+308013	30801300	Eosinofilos en secreciones	114	1368	171
+308014	30801400	Fisico-quimico (incluye aspecto, color, pH, glucosa, proteina, Pandy y filancia)	352	4224	528
+308015	30801500	Glucosa en exudados, secreciones y otros liquidos	910	1092	1365
+308017	30801700	pH en exudados, secreciones y otros liquidos (proc. aut.)	980	1176	147
+308018	30801800	Proteinas totales o albumina (proc. aut.) c/u	211	2532	3165
+308019	30801900	Proteinas,electroforesisde(incluyeproteinastotales)enotrosliquidosbiologicos	8690	10428	13035
+308022	30802200	Indice IgG/albumina (incluye determ. de IgG y albumina en L.C.R. y suero)	1787	21444	26805
+308033	30803300	Celulas anaranjadas (proc. aut.)	910	1092	1365
+308035	30803500	Creatinina en exudados, secreciones y otros liquidos (proc. aut.)	163	1956	2445
+308037	30803700	Indice de bilirrubina (prueba de Liley)	203	2436	3045
+308039	30803900	Madurezfetalcompleta(fisico;celulasanaranjadas,bilirrubina,testde
+Clements,creatinina,contaminantes)	8240	9888	12360
+308040	30804000	Test de Clements (proc. aut.)	166	1992	249
+308044	30804400	Flujovaginalosecrecionuretral,estudiode(incluyetomademuestraycodigos03-06-004,03-06-005,03-06-008,03-06-017y03-06-026)	10770	12924	16155
+309001	30900100	Acido ascorbico	325	39	4875
+309002	30900200	Acido delta aminolevulinico	646	7752	969
+309004	30900400	Acido urico en orina (cuantitativo)	293	3516	4395
+309005	30900500	Acido 5 hidroxiindolacetico cuantitativo	688	8256	1032
+309006	30900600	Amilasa cuantitativa en orina	36	432	54
+309007	30900700	Aminoacidos en orina (cualitativo)(excepto fenilalanina, PKU)	72	864	108
+309008	30900800	Calcio cuantitativo en orina	27	324	405
+309009	30900900	Calculo urinario (examen fisico y quimico)	608	7296	912
+309010	30901000	Creatinina cuantitativa en orina	206	2472	309
+309011	30901100	Cuerpos cetonicos	213	2556	3195
+309012	30901200	Electrolitos (sodio, potasio, cloro) c/u, en orina	211	2532	3165
+309013	30901300	Microalbuminuria cuantitativa	392	4704	588
+309014	30901400	Gonadotrofina corionica, sub-unidad beta en orina (test rapido)	358	4296	537
+309015	30901500	Fosforo cuantitativo en orina	27	324	405
+309016	30901600	Glucosa (cuantitativo), en orina	186	2232	279
+309020	30902000	Nitrogeno ureico o urea en orina (cuantitativo)	114	1368	171
+309022	30902200	Orina completa, (incluye cod. 03-09-023 y 03-09-024)	256	3072	384
+309023	30902300	Orina,fisico-quimico(aspecto,color,densidad,pH;proteinas,glucosa,cuerposcetonicos,urobilinogeno,bilirrubina,hemoglobinaynitritos,determinacioncualitativaosemicuantitativa)todosocadaunodelosparametros(proc.aut.)	1780	2136	2670
+309024	30902400	Sedimento de orina (proc. aut.)	147	1764	2205
+309028	30902800	Proteina (cuantitativa), en orina	238	2856	357
+309029	30902900	Proteinas de Bence-Jones prueba termica	162	1944	243
+401002	40100200	Radiografiadepartesblandas,laringelateral,cavumrinofaringeo(rinofarinx).	13100	15720	19650
+401004	40100400	Radiografiadetorax,proyeccioncomplementaria(oblicuas,selectivasuotras)	9440	11328	14160
+401008	40100800	Radiografiadetoraxfrontalolateralconequipomovilfueradeldepartamentoderayos.	15250	18300	22875
+401009	40100900	Radiografia de torax simple frontal o lateral	1405	1686	21075
+401010	40101000	Mamografia bilateral	2992	35904	4488
+401110	40111000	Mamografia unilateral	1782	21384	2673
+401130	40113000	Mamografia proyeccion complementaria (axilar u otras)	678	8136	1017
+401011	40101100	Marcacion preoperatoria de lesiones de la mama	3398	40776	5097
+401012	40101200	Radiografia de mama, pieza operatoria	998	11976	1497
+401070	40107000	Radiografia de torax frontal y lateral	2582	30984	3873
+401013	40101300	Radiografia de Abdomen Simple	1258	15096	1887
+401014	40101400	Radiografiadeabdomensimple,proyeccioncomplementaria(lateraly/ooblicua)	9440	11328	14160
+401027	40102700	Pielografiadeeliminacionodescendente:incluyerenalyvesicalsimplesprevias,3placaspostinyecciondemediodecontraste,controlesdepieycistografiapreypostmiccional.	58620	70344	87930
+401028	40102800	Radiografia renal simple (proc. aut.)	1205	1446	18075
+401029	40102900	Radiografia vesical simple o perivesical (proc. aut.)	1038	12456	1557
+401030	40103000	Radiografia agujeros opticos, ambos lados	2086	25032	3129
+401031	40103100	Radiografiadecavidadesperinasales,orbitas,articulacionestemporomandibulares,huesospropiosdelanariz,malar,maxilar,arcocigomaticoycara	14050	16860	21075
+401032	40103200	Radiografia de craneo frontal y lateral	1482	17784	2223
+401033	40103300	Radiografia de Craneo proyeccion especial de base de craneo (Towne)	1038	12456	1557
+401034	40103400	Radiografia de globo ocular, estudio de cuerpo extrano	2475	297	37125
+401035	40103500	Radiografia de oido, uno o ambos	1838	22056	2757
+401040	40104000	Radiografia de silla turca frontal y lateral	1726	20712	2589
+401042	40104200	Radiografia de columna cervical o atlas-axis (frontal y lateral)	1405	1686	21075
+401043	40104300	Radiografia de columna cervical (frontal, lateral y oblicuas)	2506	30072	3759
+401044	40104400	Radiografia de columna cervical flexion y  extension (Dinamicas)	1405	1686	21075
+401045	40104500	Radiografiadecolumnadorsalodorsolumbarlocalizada,parrillacostaladultos(frontalylateral)	16530	19836	24795
+401046	40104600	Radiografiacolumnalumbarolumbosacra(frontal,lateralyfocalizadaenel
+5°espacio)	24240	29088	36360
+401047	40104700	Radiografia columna lumbar o lumbosacra flexion y  extension (Dinamicas)	2086	25032	3129
+401048	40104800	Radiografia columna lumbar o lumbosacra, oblicuas adicionales	1405	1686	21075
+401049	40104900	Radiografiadecolumnatotal,panoramicaconfoliograduadofrontalolateral	18850	22620	28275
+401051	40105100	Radiografia de pelvis, cadera o coxofemoral	1088	13056	1632
+401151	40115100	Radiografiadepelvis,caderaocoxofemoraldeRN,lactanteoninomenorde
+6anos.	10880	13056	16320
+401052	40105200	Radiografiadepelvis,caderaocoxofemoral,proyeccionesespeciales;(rotacioninterna,abduccion,lateral,Lawensteinuotras)	10380	12456	15570
+401053	40105300	Radiografia de Sacrocoxis o articulaciones sacroiliacas.	1565	1878	23475
+401054	40105400	Radiografiadebrazo,antebrazo,codo,muneca,mano,dedos,pie(frontalylateral)	12580	15096	18870
+401055	40105500	Radiografia de clavicula.	1458	17496	2187
+401056	40105600	Radiografia Edad Osea: carpo y mano	1038	12456	1557
+401057	40105700	Radiografia Edad osea : rodilla frontal	1038	12456	1557
+401058	40105800	Estudio radiologico de escafoides	1565	1878	23475
+401059	40105900	Estudio radiologico de muneca o tobillo frontal lateral y oblicuas	1467	17604	22005
+401060	40106000	Radiografiadehombro,femur,rodilla,pierna,costillaoesternonFrontaly
+Lateral	14670	17604	22005
+401062	40106200	RadiografiadeProyeccionesespecialesoblicuasuotrasenhombro,brazo,codo,rodilla,rotulas,sesamoideos,axialdeambasrotulasosimilares	10380	12456	15570
+401063	40106300	Radiografia de tunel intercondileo o radio-carpiano	1038	12456	1557
+401064	40106400	Apoyofluoroscopicoaprocedimientosintraoperatoriosy/obiopsia(noincluyeelproc.)	11260	13512	16890
+402008	40200800	Colangiopancreatografia endoscopica (a.c.18-01-018; 5-7 exp)	4018	48216	6027
+402011	40201100	Histerosalpingografia (a.c. 20-01-013) (4 exp.; incluye prueba de Cotte tardia)	3072	36864	4608
+403001	40300100	Tomografia Computarizada de craneo encefalica	8866	106392	13299
+403002	40300200	Tomografia Computarizada de hipotalamo-hipofisis	988	11856	1482
+403003	40300300	Tomografia Computarizada de fosa posterior	8149	97788	122235
+403006	40300600	Tomografia Computarizada de temporal-oido	8149	97788	122235
+403007	40300700	Tomografia Computarizada de orbitas maxilofacial	988	11856	1482
+403008	40300800	Tomografia Computarizada de columna cervical	10822	129864	16233
+403018	40301800	Tomografia Computarizada de Columna Dorsal. Incluye minimo 6 espacios	9875	1185	148125
+403019	40301900	Tomografia Computarizada de Columna Lumbar	9875	1185	148125
+403012	40301200	Tomografia Computarizada de cuello, partes blandas	8149	97788	122235
+403013	40301300	TomografiaComputarizadadeTorax.Incluyeademas:Esternon,Claviculas,ArticulacionAcromioclavicular,Escapula,Costillas,ArticulacionEsternoclavicular.IncluyetodoelToraxocadasegmentooarticulacion.Incluyebilateralidad	127700	153240	191550
+403014	40301400	TomografiaComputarizadadeabdomen(higado,viasyvesiculabiliar,pancreas,bazo,suprarrenalesyrinones)	76050	91260	114075
+403016	40301600	TomografiaComputarizadadePelvis(AdemasincluyeSacro,Coxis,Caderas,HuesosPelvicos,ArticulacionesSacroIliacas).Bilateral	78000	93600	117000
+403020	40302000	Tomografia Computarizada de Abdomen y Pelvis	12926	155112	19389
+403021	40302100	Tomografia Computarizada Pielografia	3042	36504	4563
+403022	40302200	Tomografia Computarizada Urografia	7605	9126	114075
+403023	40302300	TomografiaComputarizadadeColonoscopiaVirtual.Noincluyeinstalaciondesonda	58000	69600	87000
+403104	40310400	Tomografia Computarizada Angio de Cuello	7573	90876	113595
+403105	40310500	Tomografia Computarizada Angio de Pelvis	6182	74184	9273
+403017	40301700	TomografiaComputarizadaMusculoesqueleticaporzonaanatomica.Porcadasegmentooarticulacion:muslo,pierna,rodillas,antebrazo,codo,muneca,mano,hombro,pie,tobillouotros.Bilateralsolopararodillas	68990	82788	103485
+403101	40310100	Tomografia Computarizada angio de encefalo	10318	123816	15477
+403102	40310200	Tomografia Computarizada angio de torax	15533	186396	232995
+403103	40310300	Tomografia Computarizada angio de abdomen	14382	172584	21573
+404003	40400300	Ecografiaabdominal(incluyehigado,viabiliar,vesicula,pancreas,rinones,bazo,retroperitoneoygrandesvasos)	35180	42216	52770
+404004	40400400	Ecografiacomoapoyoacirugia,oaprocedimiento(detorax,muscular,partesblandas,etc.)	21660	25992	32490
+404009	40400900	Ecografia pelvica masculina (incluye vejiga y prostata)	1958	23496	2937
+404010	40401000	Ecografia renal (bilateral), o de bazo	2445	2934	36675
+404011	40401100	Ecografia encefalica (RN o lactante)	2518	30216	3777
+404012	40401200	Ecografia mamaria bilateral (incluye Doppler)	2445	2934	36675
+404013	40401300	Ecografia ocular, uno o ambos ojos.	2445	2934	36675
+404014	40401400	Ecografia testicular (uno o ambos) (Incluye Doppler)	2445	2934	36675
+404015	40401500	Ecografia tiroidea (Incluye Doppler)	2445	2934	36675
+404016	40401600	Ecografia Partes Blandas o Musculoesqueletica (cada zona anatomica)	2445	2934	36675
+404118	40411800	Ecografia vascular (arterial y venosa) periferica (bilateral)	8016	96192	12024
+404119	40411900	Ecografia doppler de vasos del cuello	8016	96192	12024
+404120	40412000	Ecografia transcraneana	8016	96192	12024
+404121	40412100	Ecografia abdominal o de vasos testiculares	8016	96192	12024
+404002	40400200	Ecografia obstetrica	1914	12441	12441
+404005	40400500	Ecografia transvaginal o transrectal	3916	25454	25454
+404006	40400600	Ecografia ginecologica, pelviana femenina u obstetrica con estudio fetal	3728	24232	24232
+404007	40400700	Ecografiatransvaginalparaseguimientodeovulacion,procedimientocompleto(6-8sesiones)	54460	35399	35399
+404008	40400800	Ecografiaparaseguimientodeovulacion,procedimientocompleto(6a8sesiones)	54460	35399	35399
+404122	40412200	Ecografia doppler de vasos placentarios	16032	104208	104208
+405001	40500100	Resonancia Magnetica Craneo Encefalica u Oidos, bilateral	17115	20538	256725
+405002	40500200	Resonancia Magnetica de hipotalamo - hipofisis	17115	20538	256725
+405003	40500300	Resonancia Magnetica de orbitas	16233	194796	243495
+405004	40500400	Resonancia Magnetica de articulaciones temporomandibulares	17178	206136	25767
+405005	40500500	Resonancia Magnetica de columna cervical	17115	20538	256725
+405006	40500600	Resonancia Magnetica de columna dorsal	17115	20538	256725
+405007	40500700	Resonancia Magnetica de columna lumbar	17115	20538	256725
+405017	40501700	Resonancia Magnetica Angiografia de Encefalo	17613	211356	264195
+405018	40501800	Resonancia Magnetica Angiografia de Cuello	18112	217344	27168
+405019	40501900	Resonancia Magnetica Angiografia de Torax	18112	217344	27168
+405020	40502000	Resonancia Magnetica Angiografia de Abdomen	17613	211356	264195
+405021	40502100	Resonancia Magnetica Angiografia de Pelvis	17115	20538	256725
+405022	40502200	Resonancia Magnetica Angiografia de Extremidad Superior Unilateral	17613	211356	264195
+405023	40502300	Resonancia Magnetica Angiografia de Extremidad Inferior Unilateral	17115	20538	256725
+405009	40500900	ResonanciaMagneticadeTorax.(corazon,esternon,claviculas,articulacionacromioclavicular,escapula,costillasoarticulacionesternoclavicular).Todalaparedtoracicaocadasegmentooarticulacion.Bilateral	176130	211356	264195
+405010	40501000	Resonancia Magnetica de abdomen	17115	20538	256725
+405011	40501100	ResonanciaMagneticadePelvis.Incluye:osteoarticulardesacroiliacasuosteoarticulardesacrocoxisuosteoarticulardehuesospelvicosuorganospelvianos(incluyegenitalesinternosygastrointestinal)	171150	205380	256725
+405012	40501200	Resonancia Magnetica de abdomen y pelvis	25671	308052	385065
+405013	40501300	Resonancia Magnetica de rodilla	14033	168396	210495
+405024	40502400	Resonancia Magnetica de Mano o Muneca	14442	173304	21663
+405025	40502500	Resonancia Magnetica de Antebrazo o Brazo	14033	168396	210495
+405026	40502600	Resonancia Magnetica de Codo	14033	168396	210495
+405027	40502700	Resonancia Magnetica de Hombro	14033	168396	210495
+405028	40502800	Resonancia Magnetica de Pie, Antepie o Tobillo	14033	168396	210495
+405029	40502900	Resonancia Magnetica de Pierna	14442	173304	21663
+405030	40503000	Resonancia Magnetica de Muslo o Cadera. Unilateral	14033	168396	210495
+405031	40503100	Resonancia Magnetica de Mama (bilateral)	14033	168396	210495
+405032	40503200	Resonancia Magnetica fetal	17115	20538	256725
+405016	40501600	Resonancia Columna Total (cervical, dorsal, lumbar)	30803	369636	462045
+405098	40509800	Colangioresonancia	11465	13758	171975
+601001	60100100	Evaluacionkinesiologica:muscular,articular,postural,neurologicayfuncional(maximo2portratamiento)	2720	3264	4080
+601003	60100300	* Evaluacion Biomecanica instrumental	525	63	7875
+601004	60100400	* Piscina temperada (incluye ejercicios) (proc.aut.)	525	63	7875
+601005	60100500	*Radiacioninfrarroja,horno,banoparafina,compresashumedas,c/u
+(proc.aut.)	1300	1560	1950
+601006	60100600	*TanquedeHubbardconejercicios(hiperohipo-termalsobre1.000ltsdecapacidad)(proc.aut.)	5040	6048	7560
+601007	60100700	*Turbion,tanqueconremolino(hiperohipotermal,banodecontraste)(proc.aut.)	2980	3576	4470
+601010	60101000	* Terapia por radiacion ultravioleta. (proc.aut.)	136	1632	204
+601008	60100800	* Laserterapia (proc.aut.)	317	3804	4755
+601009	60100900	* Onda corta (ultratermia), microondas, c/u (proc.aut.)	27	324	405
+601011	60101100	* Terapia por ondas mecanicas (proc. aut.)	298	3576	447
+601012	60101200	* Analgesia transcutanea (TENS) (proc.aut.)	166	1992	249
+601013	60101300	*Estimulacionelectrica(interferencial,diadinamicas,exponenciales,galvanica,faradica,ultraexcitante)(proc.aut.)	2700	3240	4050
+601014	60101400	* Iontoforesis (proc.aut.)	136	1632	204
+601015	60101500	* Retroalimentacion neuromuscular (miofeedback) (proc.aut.)	206	2472	309
+601016	60101600	* Compresion neumatica (masaje compresivo) (proc.aut.)	178	2136	267
+601027	60102700	* Traccion cervical y/o lumbar (mecanica o manual) (proc.aut.)	147	1764	2205
+601029	60102900	Atencion kinesiologica integral	81	972	1215
+601017	60101700	*Ejerciciosrespiratoriosyprocedimientosdekinesiterapiatoracica(ventilacionpulmonarlocalizada,estimulaciondelatos,bloqueostoracicos,vibraciones,percusionesytapoteos)(proc.aut.)	4020	4824	6030
+601028	60102800	Entrenamiento cardiorrespiratorio funcional	283	3396	4245
+601018	60101800	* Prueba de esfuerzo o Entrenamiento ergometrico (proc. aut.)	349	4188	5235
+601019	60101900	*Entrenamientofuncionalconayudastecnicas(ortesis,ayudasdedesplazamiento,etc.)(proc.aut.)	3170	3804	4755
+601020	60102000	* Entrenamiento protesico extremidades (proc.aut.)	27	324	405
+601021	60102100	*Manipulacionosteopatica(liberacionarticular,manipulacionvertebral)(proc.aut.)	1980	2376	2970
+601022	60102200	* Masoterapia, por sesion (proc.aut.)	349	4188	5235
+601023	60102300	*Orientacionyentrenamientodepersonasconbajavisionoconceguera
+(proc.aut.)	4980	5976	7470
+601024	60102400	*Reeducacionmotriz(ejerciciosterapeuticospararecuperacionmuscular,capacidaddetrabajo,coordinacion,gimnasiaortopedica,reeducacionfuncional,demarcha)(individualyporsesion,minimo30minutos)(proc.aut.)	2220	2664	3330
+601025	60102500	*Tecnicasdefacilitacion,tecnicasdeinhibicion(Kabaty/oBobath)(proc.aut.)	2110	2532	3165
+601026	60102600	*Tecnicasderelajacion(entrenamientoautogenoSchultz-Jacobsonosimilar)(proc.aut.)	4670	5604	7005
+601030	60103000	* Maniobras permeabilizacion de la via aerea (proc.aut.)	144	1728	216
+601031	60103100	Atencionkinesiologicaintegral,alenfermohosp.enUTIoIntermedio(max.1diaria)	18930	22716	28395
+702001	70200100	Preparaciondeglobulosrojos,plasma,plaquetasocrioprecipitados(incluyeentrevista,selecciondeldonanteylapreparaciondelrespectivohemocomponente)	NA	14172	17715
+702002	70200200	Obtencionypreparacionautomatizadadeplaquetasendonanteunico,conmaquinaseparadoracelular(proc.completo)	NA	269700	337125
+702003	70200300	SetdeExamenesporunidaddeGlobulosRojostransfundida(incluyeclasificacionABOyRho,VDRL,HIV,virushepatitisBantigenodesuperficie,anticuerposdehepatitisC,HTLV-IyII,Chagas,pruebadecompatibilidaderitrocitaria)	NA	19440	24300
+702004	70200400	SetdeExamenesporunidadtransfundidadePlasmaodePlaquetasodeCrioprecipitados,c/u(incluyeclasificacionABOyRho,VDRL,HIV,virushepatitisBantigenodesuperficie,anticuerposdehepatitisC,HTLV-IyII,Chagas)	NA	16116	20145
+702005	70200500	Prueba de compatibilidad por unidad de globulos rojos estudiada (proc. aut.)	NA	3468	4335
+702006	70200600	Transfusionenadulto(atencionambulatoria,atencioncerradasiemprequelaadministracionseacontroladaporprofesionalespecialista,tecnologomedicoomedicoresponsable)	NA	11016	13770
+702007	70200700	Transfusionennino(atencionambulatoria,atencioncerradasiemprequelaadministracionseacontroladaporprofesionalespecialista,tecnologomedicoomedicoresponsable)	NA	12816	16020
+702008	70200800	Transfusionenadultooninoenpabellon(conasistenciapermanentedelmedicootecnologomedicoresponsable)(nocorrespondesucobrocuandoseacontroladapormedicoanestesista,porestarincluidaenelvalordesushonorarios)	NA	18864	23580
+702009	70200900	Exsanguineotransfusionenreciennacidoporviaumbilical(incluyeproc.completodeextraccionyadministracion,ademasdelsetdeexamenespreviosalatransfusion)	NA	78936	98670
+702010	70201000	Exsanguineotransfusionenadultoonino(incluyeproc.completodeextraccionalreceptoryadministracionalmismo,ademasdelsetdeexamenespreviosalatransfusion)	NA	49368	61710
+702011	70201100	Autotransfusion-Predeposito(incluyeproc.completo,ademasdelosexamenesprevios)(correspondecobrodeunaprestacionparaextraccionde
+2a4unidadesdesangreohemocomponentes)	NA	66120	82650
+702012	70201200	Sangria(consideraelcobrodeunaprestacionporcadaunidaddesangreextraida)	NA	9696	12120
+702013	70201300	Hemaferesis procedimiento manual (incluye proc. completo)	NA	252	315
+702014	70201400	Hemaferesisprocedimientoconmaquinaseparadoracelular(incluyeproc.Completo)	NA	270828	338535
+801001	80100100	Citodiagnosticocorriente,exfoliativa(Papanicolauysimilares)(porcadaorgano)	26700	32040	48060
+801002	80100200	Citologia aspirativa (por puncion); por cada organo	3954	47448	71172
+801003	80100300	** Estudio histopatologico con microscopia electronica (por cada organo)	13182	158184	237276
+801004	80100400	**Estudiohistopatologicocontecnicasdeinmunohistoquimicaoinmunofluorescencia(porcadaorgano)	111060	133272	199908
+801005	80100500	**Estudiohistopatologicocontecnicashistoquimicasespeciales(incluyedescalcificacion)(porcadaorgano)	81180	97416	146124
+801006	80100600	Estudiohistopatologicodebiopsiacontemporanea(rapida)aintervencionesquirurgicas(porcadaorgano)(noincluyebiopsiadiferida)	107910	129492	194238
+801007	80100700	Estudiohistopatologicocontincioncorrientedebiopsiadiferidaconestudioseriado(minimo10muestras)deunorganoopartedeel(noincluyeestudiocontecnicahabitualdeotrosorganosincluidosenlamuestra)	107910	129492	194238
+801008	80100800	Estudio histopatologico corriente de biopsia diferida (por cada organo)	5592	67104	100656
+801011	80101100	PCRtiemporealparamarcadorestumoralesencorteshistologicos(incluyemicrodiseccionyextracciondeADN)	469116	562939	844409
+180103700	1801037	Ureasa, test de (para Helicobacter pylori) o similar	848	848	11024
+No aplica	35013100	CETONEMIA CUALITATIVA	1	1	1
+No aplica	35010100	HEMOGLOBINURIA	1	1	1
+No aplica	35019400	TINCION TINTA CHINA (LCR)	1	1	1
+No aplica	35020900	EOSINOFILOS EN ORINA	1	1	1
+No aplica	35090100	INSUMO GLUCOSA NINO	18	18	18
+No aplica	35090200	INSUMO GLUCOSA ADULTO	18	18	18
+No aplica	35020500	MAGNESIO EN ORINA 24 HRS.	3	3	3
+No aplica	35020800	VDRL (LCR) -	3	3	3
+No aplica	35000700	ANTICUERPO IGG CISTICERCOSIS	788	788	788
+No aplica	35016200	CHLAMYDIA TRACHOMATIS IGM	872	872	872
+No aplica	35016300	CHLAMYDIA TRACHOMATIS IGG	872	872	872
+No aplica	35017700	MYCOPLASMA PNEUMONIAE ANT.(IGG)	872	872	872
+No aplica	35017800	MYCOPLASMA PNEUMONIAE ANT.(IGM)	872	872	872
+No aplica	35094600	ALDOSTERONA EN ORINA (PROPIO)	89	89	89
+No aplica	35016500	AC ADENOVIRUS IGG	908	908	908
+No aplica	35016600	AC ADENOVIRUS IGM	908	908	908
+No aplica	35094500	ADENOVIRUS IGG - IGM (PROPIO)	908	908	908
+No aplica	35022200	VIRUS PARAINFLUENZA	934	934	934
+No aplica	35014300	HTLV ANTICUERPOS 1-2	10	10	10
+No aplica	35014700	HOMA	10	10	10
+No aplica	35015000	CITOQUIMICO LCR	10	10	10
+No aplica	35105400	TEST DE HELECHO	10	10	10
+No aplica	35095600	AC CELULAS PARIETALES (PROPIO)	1032	1032	1032
+No aplica	35000400	ANTICUERPO ANTI-ANTIGENO DE SUP PARA VIR	1052	1052	1052
+No aplica	35021000	VIRUS HEPATITIS B, ANTIC. ANTI ANTIGENO AUSAB	1052	1052	1052
+No aplica	35023900	ANTIGENO PROSTATICO LIBRE	1054	1054	1054
+No aplica	35000300	ANTICUERPO ANTI TIPO ( TIROPEROXIDASA )	1062	1062	1062
+No aplica	35014100	MHA-TP	1062	1062	1062
+No aplica	35011100	TRIQUINOSIS IG G	1072	1072	1072
+No aplica	35019600	VIRUS EPSTEIN BARR ANTICUERPOS IGG	1108	1108	1108
+No aplica	35019700	VIRUS EPSTEIN BARR ANTICUERPOS IGM	1108	1108	1108
+No aplica	35021900	VIRUS EPSTEIN BARR IGG	1108	1108	1108
+No aplica	35022000	VIRUS EPSTEIN BARR IGM	1108	1108	1108
+No aplica	35094800	ANDROSTENEDIONA (PROPIO)	1108	1108	1108
+No aplica	35013200	PEPTIDO C	1122	1122	1122
+No aplica	35001900	ANTICUERPOS BORDETELLA PERTUSSIS IGG	1134	1134	1134
+No aplica	35002000	ANTICUERPOS BORDETELLA PERTUSSIS-IGM	1134	1134	1134
+No aplica	35002100	ANTICUERPOS IGG TOXOCARA	1134	1134	1134
+No aplica	35019500	TOXOCARA ANTICUERPOS IGG	1134	1134	1134
+No aplica	35096200	BORDETELLA PERTUSSI IGG-IGM (PROPIO)	1134	1134	1134
+No aplica	35010300	VIRUS RESPIRATORIO SINCISIAL	12	12	12
+No aplica	35097600	COCAINA EN SANGRE (PROPIO)	1204	1204	1204
+No aplica	35010500	ANFETAMINA	1238	1238	1238
+No aplica	35094900	ANFETAMINA EN SANGRE (PROPIO)	1238	1238	1238
+No aplica	35100100	MARIHUANA CONFIRMACION (PROPIO)	1238	1238	1238
+No aplica	35100600	OPIACEOS EN ORINA (PROPIO)	1238	1238	1238
+No aplica	35015800	TINCION PARA CAMPYLOBACTER	124	124	124
+No aplica	35019000	SARAMPION ANTICUERPOS IGG	1244	1244	1244
+No aplica	35019100	SARAMPION ANTICUERPOS IGM	1244	1244	1244
+No aplica	35001300	ANTICUERPOS ANTIGLIADINA IGG	1298	1298	1298
+No aplica	35001400	ANTICUERPOS ANTI B2 GLICOPROTEINA 1 IGC-	1298	1298	1298
+No aplica	35010600	BARBITURICOS	13	13	13
+No aplica	35010700	COCAINA	13	13	13
+No aplica	35010800	CANABINOIDES	13	13	13
+No aplica	35010900	OPIACEOS	13	13	13
+No aplica	35011000	BENZODIAZEPINAS	13	13	13
+No aplica	35014500	CITOQUIMICO DE LIQUIDOS	13	13	13
+No aplica	35014800	ALCOHOL ETILICO	13	13	13
+No aplica	35019800	VIRUS HEPATITIS B, ANTICORE IGM (ANTI	1378	1378	1378
+No aplica	35019900	VIRUS HEPATITIS B, ANTICORE TOTAL (ANTI	1378	1378	1378
+No aplica	35007700	ADENOVIRUS EN DEPOSICIONES	14	14	14
+No aplica	35010400	VIRUS RESPIRATORIO ADENOVIRUS	14	14	14
+No aplica	35006300	FOLATO ERITROCITARIO	1446	1446	1446
+No aplica	35096500	CALCULOS RENALES O BILIARES (PROPIO)	1454	1454	1454
+No aplica	35094100	ACIDO VAINILLILMANDELICO (PROPIO)	1488	1488	1488
+No aplica	35095400	AC ANTI TREPONEMA FTA ABS (PROPIO)	1492	1492	1492
+No aplica	35099600	IGF 1 Y 2  (PROPIO)	15225	15225	15225
+No aplica	35013000	PROCALCITONINA SEMICUANTITATIVA)	1575	1575	1575
+No aplica	35096300	BORRELIA BURGDORFERI IGG-IGM (PROPIO)	1592	1592	1592
+No aplica	35096400	BRUCELLA IGG-IGM (PROPIO)	1592	1592	1592
+No aplica	35020100	VITAMINA B12 NIVEL SERICO	1635	1635	1635
+No aplica	35105000	VITAMINA B 12  (PROPIO)	1635	1635	1635
+No aplica	35004700	DETERMINACION PEPETIDO C CITRULINADO	16635	16635	16635
+No aplica	35018600	PEPTIDO CITRULINADO AC IGG	16635	16635	16635
+No aplica	35022100	PEPTIDO CITRUNILADO	16635	16635	16635
+No aplica	35090700	ANTICUERPOS ANTIPEPTIDO CITRULINADO	16635	16635	16635
+No aplica	35102000	PEPTIDO CITRUNILADO (PROPIO)	16635	16635	16635
+No aplica	35017200	CLOSTRIIDIUM DIFFILE DEPOSICION	1725	1725	1725
+No aplica	35015900	CITRATURIA	1734	1734	1734
+No aplica	35016000	OXALATURIA	1734	1734	1734
+No aplica	35001600	ANTICUERPOS ANTI TRANSGLUTAMINASA	1754	1754	1754
+No aplica	35016800	AC. ANTI TRANSGLUTAMINASA	1754	1754	1754
+No aplica	35022300	IGA TRANSGLUTAMINASA	1754	1754	1754
+No aplica	35103400	TRANSGLUT TISULAR IGG IGA (PROPIO)	1754	1754	1754
+No aplica	35012100	ANTICUERPOS ANTI MEMBRANA BASAL	182	182	182
+No aplica	35013900	CLONAZEPAM MINIMO	1832	1832	1832
+No aplica	35014000	CLONAZEPAM MAXIMO	1832	1832	1832
+No aplica	35015100	ZINC SANGRE	188	188	188
+No aplica	35094200	ACIDO VALPROICO LIBRE % (PROPIO)	1982	1982	1982
+No aplica	35093700	22 ALERGENOS (PROPIO)	21045	21045	21045
+No aplica	35102600	PCR ULTRASENSIBLE (PROPIO)	2175	2175	2175
+No aplica	35012500	DIMERO D CUANTITATIVO	225	225	225
+No aplica	35021500	VITAMINA D-25 HIDROXICALCIFEROL -	225	225	225
+No aplica	35021700	TOXINA CLOSTRIDIUM DIFFICILE EN DEPOSIC	231	231	231
+No aplica	35023800	DIMERO D CUANTITATIVO	2325	2325	2325
+No aplica	35096600	CANDIDA ALBICANS X PCR (PROPIO)	2385	2385	2385
+No aplica	35097000	CHLAMYDIA TRACH X PCR (PROPIO)	2385	2385	2385
+No aplica	35100500	NEISSERIA GONHORREAE (PROPIO)	2385	2385	2385
+No aplica	35000500	ANTICUERPO ANTIB-2 GLICOPROTEINA 1 IGA-I	24555	24555	24555
+No aplica	35095000	ANTI B2 GLICOPROTEINA (PROPIO)	24555	24555	24555
+No aplica	35018400	PARVOVIRUS B 19  ANTICUERPOS IGG	26295	26295	26295
+No aplica	35018500	PARVOVIRUS B 19  ANTICUERPOS IGM	26295	26295	26295
+No aplica	35101900	PARVOVIRUS IGG IGM (PROPIO)	26295	26295	26295
+No aplica	35022500	VIRUS RESPIRATORIO INFLUENZA A Y B	2784	2784	2784
+No aplica	35094000	ACIDO MICOFENOLICO (PROPIO)	2892	2892	2892
+No aplica	35007600	TROPONINA	2898	2898	2898
+No aplica	35000900	ANTICUERPO IGG VIRUS HERPES ZOSTER	31575	31575	31575
+No aplica	35001000	ANTICUERPO IGM VIRUS HERPE ZOSTER	31575	31575	31575
+No aplica	35011200	VIRUS VARICELA ZOSTER IGG	31575	31575	31575
+No aplica	35011300	VIRUS VARICELA ZOSTER IGM	31575	31575	31575
+No aplica	35014600	BARTONELLA HENSELAE IGM	31575	31575	31575
+No aplica	35017100	BARTONELLA HENSELAE IGG	31575	31575	31575
+No aplica	35103700	VARICELLA ZOSTER IGG IGM (PROPIO)	31575	31575	31575
+No aplica	35100900	PANEL EMBARAZADA POR PCR-RT (PROPIO)	324	324	324
+No aplica	35001700	ANTICUERPOS ANTIGLIADINICOS IGA	33075	33075	33075
+No aplica	35016900	ANTICUERPO ANTIRECEPTOR TSH TRAB	33075	33075	33075
+No aplica	35095200	AC ANTI RECEPTOR TSH (PROPIO)	33075	33075	33075
+No aplica	35012800	PREALBUMINA	345	345	345
+No aplica	35105300	DETECCION VIRUS HANTA	36645	36645	36645
+No aplica	35003700	DETERMINACION F VIII - CORISTOCETINA	375	375	375
+No aplica	35005200	ESTUDIO ENF VON WILLEBRAND	375	375	375
+No aplica	35013400	FACTOR VON WILLEBRAND	375	375	375
+No aplica	35091900	FACTOR VON WILLEBRAND PLASMATICO MUL	375	375	375
+No aplica	35099500	IG SUBCLASE IGG1, 2, 3, 4 (PROPIO)	38535	38535	38535
+No aplica	35004100	DETERMINACION HOMOCISTEINA	38595	38595	38595
+No aplica	35005700	ESTUDIO TROMBOFILIA .C.AC.LUPICO. GEN PRO	4017	4017	4017
+No aplica	35023000	ANTICOAGULANTE LUPICO	4017	4017	4017
+No aplica	35095100	ANTICOAGULANTE LUPICO (PROPIO)	4017	4017	4017
+No aplica	35099000	HIDROXIPROLINA 24 H (PROPIO)	4137	4137	4137
+No aplica	35003500	DETERMINACION ADA  ( ADENOSIN D- AMINASA	41925	41925	41925
+No aplica	35094300	ADA (PROPIO)	41925	41925	41925
+No aplica	35006900	IFI - PANEL VIRUS RESPIRATORIO	42615	42615	42615
+No aplica	35001500	ANTICUERPOS ANTI LMK -1	4386	4386	4386
+No aplica	35014900	AC.ANTI LKM-1	4386	4386	4386
+No aplica	35005300	ESTUDIO ENTEROVIRUS	4431	4431	4431
+No aplica	35097900	ENTEROVIRUS XPCR (PROPIO)	4431	4431	4431
+No aplica	35003400	COBRE EN ORINA	45	45	45
+No aplica	35012700	ZPP (ZINC PROTOPORFIRINAS)	45	45	45
+No aplica	35015200	ZINC ORINA	45	45	45
+No aplica	35015700	CROMO EN ORINA	45	45	45
+No aplica	35017500	MERCURIO EN ORINA	45	45	45
+No aplica	35017600	MERCURIO EN SANGRE	45	45	45
+No aplica	35018700	PLOMO EN ORINA	45	45	45
+No aplica	35018800	PLOMO EN SANGRE	45	45	45
+No aplica	35020200	ARSENICO - CREATININA EN ORINA	45	45	45
+No aplica	35095900	ARSENICO (PROPIO)	45	45	45
+No aplica	35102400	PLOMO (PROPIO)	45	45	45
+No aplica	35098500	GLUC 6 FOSF DEHIDROGENASA (PROPIO)	45495	45495	45495
+No aplica	35097400	CLOBAZAN (PROPIO)	46335	46335	46335
+No aplica	35097800	DIAZEPAM EN SANGRE (PROPIO)	46335	46335	46335
+No aplica	35099200	HORMONA ANTIMULLERIANA (PROPIO)	4734	4734	4734
+No aplica	35099300	INFLUENZA CON SUBTIPO H1N1 (PROPIO)	47745	47745	47745
+No aplica	35006700	NIVELES DE VANCOMICINA	4821	4821	4821
+No aplica	35012000	LAMOTRIGINA	48615	48615	48615
+No aplica	35099800	LAMOTRIGINA (PROPIO)	48615	48615	48615
+No aplica	35099900	LEVETIARACETAM (PROPIO)	48615	48615	48615
+No aplica	35094700	AMINOACIDEMIA CUANTIT (PROPIO)	4884	4884	4884
+No aplica	35001200	ANTICUERPO LEGIONELLA PNEUMOPHYLA IGG IG	4944	4944	4944
+No aplica	35017300	LEGIONELLA IGG PNEUMOPHYLA ANTICUERPOS	4944	4944	4944
+No aplica	35017400	LEGIONELLA IGM PNEUMOPHYLA ANTICUERPOS	4944	4944	4944
+No aplica	35104900	VIRUS ZIKA IGG IGM (PROPIO)	49815	49815	49815
+No aplica	35098100	ETANOL PLS (PROPIO)	51585	51585	51585
+No aplica	35003600	DETERMINACION ANTIGENO HLA -B27	5199	5199	5199
+No aplica	35021800	HLAB27	5199	5199	5199
+No aplica	35103100	TIPIFICACION HLA B27 POR PCR MICROARRAY (PROPIO)	5199	5199	5199
+No aplica	35003200	CITOMETRIA DE FLUJO PARA LINFOCITOS CD4-	525	525	525
+No aplica	35003300	CITOMETRIA DE FLUJO PARALINFOCITOS CD-19	525	525	525
+No aplica	35007900	RECUENTO LINFOCITOS CD4	525	525	525
+No aplica	35099700	ISOENZIMAS DE FOF ALCALINA (PROPIO)	5415	5415	5415
+No aplica	35002900	CHLAMYDIA NEUMONIAE POR PCR ( LIGHT CYC	54555	54555	54555
+No aplica	35007000	PNEUMOCISTIS CARINI	54555	54555	54555
+No aplica	35018900	PNEUMOCISTIS CARINII IFI	54555	54555	54555
+No aplica	35095300	AC ANTI CELULAS BETA (PROPIO)	54555	54555	54555
+No aplica	35096900	CHLAMYDIA PNEUMONIAE X PCR (PROPIO)	54555	54555	54555
+No aplica	35100400	MYCOPLASMA PNEUMONIAE (PROPIO)	54555	54555	54555
+No aplica	35101600	PANEL RESPIRATORIO INFLUENZA X PCR (PROPIO)	54555	54555	54555
+No aplica	35102500	PNEUMOCISTIS JIROVECCI (CARINNI) X PCR (PROPIO)	54555	54555	54555
+No aplica	35014200	CICLOSPORINA	54615	54615	54615
+No aplica	35097100	CICLOSPORINA (PROPIO)	54615	54615	54615
+No aplica	35000100	ANTICUERPO ANTI SACCARAROMYCES CEREVISIA	555	555	555
+No aplica	35000200	ANTICUERPO ANTI SACCARAROMYCES CEREVISIA	555	555	555
+No aplica	35102200	PERFIL DE AMINOACIDOS Y ACILCARNITINAS (PROPIO)	5793	5793	5793
+No aplica	35103500	TREPONEMA PALLIDUM X PCR (PROPIO)	5793	5793	5793
+No aplica	35005000	ESTUDIO CORONAVIRUS SIND AGUDO RESP SEVE	5796	5796	5796
+No aplica	35014400	HEPATITIS B ANTIGENO E	5796	5796	5796
+No aplica	35098700	AG E HEPATITIS (PROPIO)	5796	5796	5796
+No aplica	35002400	BORDETELLA PERTUSSIS ANTIGENO POR BIOLOG	5967	5967	5967
+No aplica	35002500	BORDETELLA PERTUSSIS IFD	5967	5967	5967
+No aplica	35022900	IFI PARA BORDETELLA PERTUSIS	5967	5967	5967
+No aplica	35096100	BORDETELLA PERTUSSI X PCR (PROPIO)	5967	5967	5967
+No aplica	35102100	NT PRO BNP (PROPIO)	5967	5967	5967
+No aplica	35098300	MUTACION FACTOR II (PROPIO)	61035	61035	61035
+No aplica	35103300	TOXOPLASMA GONDII X PCR (PROPIO)	6123	6123	6123
+No aplica	35002700	CARGA VIRAL DE ADENOVIRUS POR BIOLOGIA M	61365	61365	61365
+No aplica	35005800	ESTUDIO VIRUS HERPES 1 POR BIOL. MOLECUL	61365	61365	61365
+No aplica	35005900	ESTUDIO VIRUS HERPES 2 POR BIOL. MOLECUL	61365	61365	61365
+No aplica	35006000	ESTUDIO VIRUS HERPES 6 POR BIOL. MOLECUL	61365	61365	61365
+No aplica	35020300	VIRUS HERPES POR PCR (LCR) -	61365	61365	61365
+No aplica	35020400	VIRUS EPSTEIN BARR POR PCR (LCR) -	61365	61365	61365
+No aplica	35094400	ADENOVIRUS POR PCR (PROPIO)	61365	61365	61365
+No aplica	35097500	CL. DIFFICILE X PCR (PROPIO)	61365	61365	61365
+No aplica	35104000	VIRUS HERPES 1 X PCR CUALI EN LCR (PROPIO)	61365	61365	61365
+No aplica	35104100	VIRUS HERPES 2 X PCR (PROPIO)	61365	61365	61365
+No aplica	35104200	VIRUS HERPES 2 X PCR EN LCR (PROPIO)	61365	61365	61365
+No aplica	35104300	VIRUS HERPES 6 X PCR (PROPIO)	61365	61365	61365
+No aplica	35104700	VIRUS VARICELA ZOSTER X PCR (PROPIO)	61365	61365	61365
+No aplica	35103600	TRIPTASA (PROPIO)	62625	62625	62625
+No aplica	35093600	NIVELES DE TACROLIMUS	6477	6477	6477
+No aplica	35098200	EVEROLIMUS (PROPIO)	6477	6477	6477
+No aplica	35102900	SIROLIMUS (PROPIO)	6477	6477	6477
+No aplica	35103000	TACROLIMUS (PROPIO)	6477	6477	6477
+No aplica	35003800	DETERMINACION FACTOR V LEIDEN	6735	6735	6735
+No aplica	35005400	ESTUDIO FACTOR V LEIDEN	6735	6735	6735
+No aplica	35098400	FACTOR V MUTACION (PROPIO)	6735	6735	6735
+No aplica	35005600	ESTUDIO MUTACION GEN DE LA PROTROMBINA	675	675	675
+No aplica	35096800	CATECOLAMINA EN PL Y ORINA (PROPIO)	7017	7017	7017
+No aplica	35015500	NATURAL KILLER CD	72	72	72
+No aplica	35100700	PANEL BACTERIANO MENINGITIS (PROPIO)	723	723	723
+No aplica	35101700	PANEL VIRAL MENINGITIS X PCR (PROPIO)	723	723	723
+No aplica	35098600	ELECTROFORESIS HEMOGL (PROPIO)	7482	7482	7482
+No aplica	35004200	DETERMINACION HPV ( VIRUS PAPILOMA HUMAN	7671	7671	7671
+No aplica	35104500	VIRUS PAPILOMA HUMANO X PCR (PROPIO)	7671	7671	7671
+No aplica	35007500	VIRUS HEPATITIS C ( DNA )	7944	7944	7944
+No aplica	35098800	PCR PARA VIRUS HEPATITIS B Y C (PROPIO)	7944	7944	7944
+No aplica	35101000	PANEL ETS X PCR (PROPIO)	795	795	795
+No aplica	35013700	IGE ESPECIFICA 36 ALERGENOS	7962	7962	7962
+No aplica	35100800	PANEL CHILE IGE ESPECIFICA (PROPIO)	7962	7962	7962
+No aplica	35023700	SEROLOGIA DIABETES MELLITUS	80115	80115	80115
+No aplica	35100000	MARC INMUNOLOG DIABETES (PROPIO)	80115	80115	80115
+No aplica	35100200	METANEFRINAS URINARIAS (PROPIO)	80115	80115	80115
+No aplica	35101500	PANEL RESPIRATORIO BK16 X PCR (PROPIO)	8352	8352	8352
+No aplica	35101800	PARVOVIRUS B19 PCR X PCR (PROPIO)	8352	8352	8352
+No aplica	35093500	VIRUS JC POR PCR	8355	8355	8355
+No aplica	35103800	VIRUS BK (PROPIO)	8355	8355	8355
+No aplica	35104400	VIRUS JC (PROPIO)	8355	8355	8355
+No aplica	35005500	ESTUDIO M TUBERCULOSIS POR BIOL. MOLECUL	85245	85245	85245
+No aplica	35100300	MYCOBACTERIUM X PCR (PROPIO)	85245	85245	85245
+No aplica	35011600	SEROLOGIA AMEBIASIS PANEL PARASITARIOS	8838	8838	8838
+No aplica	35101400	PANEL PARASITARIOS (PROPIO)	8838	8838	8838
+No aplica	35090300	ANTITROMBINA III FUNCIONAL	88545	88545	88545
+No aplica	35095800	ANTITROMBINA III ANTIG Y FUN (PROPIO)	88545	88545	88545
+No aplica	35098900	HEPATITIS E IGM (PROPIO)	91035	91035	91035
+No aplica	35102800	PROTEINA S ACTIVIDAD (PROPIO)	945	945	945
+No aplica	35002200	ANTIGENO CITOMEGALOVIRUS ( DNA VIRAL )	9546	9546	9546
+No aplica	35002600	CARGA VIRAL CITOMEGALOVITUS ( LIGTH CYC	9546	9546	9546
+No aplica	35020600	ANTIGENEMIA CITOMEGALOVIRUS -	9546	9546	9546
+No aplica	35021200	VIRUS VARICELA ZOSTER POR PCR (LCR)	9546	9546	9546
+No aplica	35021300	CITOMEGALOVIRUS POR PCR (LCR) -	9546	9546	9546
+No aplica	35097200	CMV X PCR CUANTITATIVO (PROPIO)	9546	9546	9546
+No aplica	35097300	CARGA VIRAL CMV (PROPIO)	9546	9546	9546
+No aplica	35101200	PANEL HERPEX BK11 (PROPIO)	96405	96405	96405
+No aplica	35103200	TIPIFICACION HLA DQ2 POR PCR  (PROPIO)	10056	10056	10056
+No aplica	35011400	ACILCARNITINA	10125	10125	10125
+No aplica	35002800	CARGA VIRAL VIRUS EPSTEIN BARR ( LIGTH C	10398	10398	10398
+No aplica	35098000	EPSTEIN BARR X PCR (PROPIO)	10398	10398	10398
+No aplica	35103900	VIRUS DENGUE X PCR (PROPIO)	104445	104445	104445
+No aplica	35104800	VIRUS ZIKA X PCR (PROPIO)	104445	104445	104445
+No aplica	35101300	PANEL IGE ESPECIFICA (PROPIO)	10614	10614	10614
+No aplica	35001800	ANTICUERPOS ANTI NEUMOCOCO ( SEROTIPO)	109995	109995	109995
+No aplica	35016100	AC. ANTI NEUMOCOCO	109995	109995	109995
+No aplica	35095500	AC ANTI NEUMOCC 10 SEROT (PROPIO)	109995	109995	109995
+No aplica	35095700	ANTIGENO DE NEUMOCOCO (PROPIO)	109995	109995	109995
+No aplica	35007200	RESISTENCIA A PROTEINA C ACTIVADA	1125	1125	1125
+No aplica	35090500	PROTEINA C ANTIGENICA	1125	1125	1125
+No aplica	35090600	PROTEINA C FUNCIONAL	1125	1125	1125
+No aplica	35102700	PROTEINA C Y PROTEINA S  (PROPIO)	1125	1125	1125
+No aplica	35101100	PANEL GASTROENTERITIS BACT VIRAL (PROPIO)	115875	115875	115875
+No aplica	35096700	CARGA VIRAL DE HEP B Y C (PROPIO)	116775	116775	116775
+No aplica	35002300	BANDAS OLIGOCLONALES LCR	132221	132221	132221
+No aplica	35096000	BANDAS OLIGONALES (PROPIO)	132221	132221	132221
+No aplica	35007800	CARGA VIRAL VIH	140355	140355	140355
+No aplica	35097700	CUANTIF ARN VIRAL VIH (PROPIO)	140355	140355	140355
+No aplica	35099100	HIV GENES PROTEASA Y TRANSCRIPTASA GENOG (PROPIO)	143355	143355	143355
+No aplica	35099400	C1Q ESTERASA (PROPIO)	143355	143355	143355
+No aplica	35013800	SUB POBLACION LINFOCITARIA	150	150	150
+No aplica	35005100	ESTUDIO DE TROMBOFILIA	1875	1875	1875
+No aplica	35011500	LEGIONELLA ORINA	4012	4012	4012
+No aplica	1	Guarismo 1	43341	43341	43341
+No aplica	2	Guarismo 2	56882	56882	56882
+No aplica	3	Guarismo 3	83968	83968	83968
+No aplica	4	Guarismo 4	123244	123244	123244
+No aplica	5	Guarismo 5	NA	NA	195022
+No aplica	6	Guarismo 6	NA	NA	365672
+No aplica	7	Guarismo 7	NA	NA	472321
+No aplica	8	Guarismo 8	NA	NA	601545
+No aplica	9	Guarismo 9	NA	NA	609449
+No aplica	10	Guarismo 10	NA	NA	625473
+No aplica	11	Guarismo 11	NA	NA	868124
+No aplica	12	Guarismo 12	NA	NA	1110778
+No aplica	13	Guarismo 13	NA	NA	1240644
+202004	20200400	DIA CAMA DE HOSPITALIZACION SALA CUNA	NA	NA	71285
+202005	20200500	DIA CAMA DE HOSPITALIZACION INCUBADORA	NA	NA	123424
+202008	20200800	DIA CAMA HOSPITALIZACION ABREVIADA	NA	NA	5541
+202101	20210000	DIA CAMA DE HOSP. HABITACION CUADRUPLE	NA	NA	9074
+202102	20210200	DIA CAMA DE HOSP. HABITACION DOBLE	NA	NA	133888
+202104	20210400	DIA CAMA DE HOSP. HABITACION INDIVIDUAL	NA	NA	196192
+202201	20220100	DIA CAMA HOSPITALIZACION ADULTO EN UNIDAD DE CUIDADO INTENSIVO	NA	NA	869719
+202301	20230100	DIA CAMA DE HOSP. INTERMEDIO ADULTO	NA	NA	468691
+202303	20230300	DIA CAMA DE HOSP. INTERMEDIO NEONATAL	NA	NA	468691
